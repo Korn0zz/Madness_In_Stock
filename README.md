@@ -1,3 +1,5 @@
+# Madness: In Stock 
+
 Madness: In Stock is a third person action platformer game set in a supermarket gone mad. 
 In this game you'll have to make use of several weapons and powers based on everyday products, found in the environment, in order to defeat enemies and obstacles.
 
