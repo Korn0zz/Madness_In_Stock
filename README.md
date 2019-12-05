@@ -5,8 +5,8 @@ In this game you'll have to make use of several weapons and powers based on ever
 
 This game has been developed from scratch as part of the final project of the Master in Creation of Videogames, University Pompeu Fabra, Barcelona School of Management.
 
-Trailer: https://www.youtube.com/watch?v=LvMFF6lZE8c
-Devlog: https://www.youtube.com/channel/UCSaytAPddQrEADx3okNP5GQ/videos?view=0&sort=dd&shelf_id=0
+- ***Trailer: https://www.youtube.com/watch?v=LvMFF6lZE8c
+- ***Devlog: https://www.youtube.com/channel/UCSaytAPddQrEADx3okNP5GQ/videos?view=0&sort=dd&shelf_id=0
 
 Programmers:
 - Daniel Cejas
